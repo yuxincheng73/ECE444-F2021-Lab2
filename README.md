@@ -7,3 +7,6 @@ Note: This lab is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 2:
 ![image](https://user-images.githubusercontent.com/50343180/134784467-1dcc60f8-52d7-4f1e-b1c1-ced802980019.png)
+
+## Activity 3:
+![image](https://user-images.githubusercontent.com/50343180/134786095-52db36b4-4f27-4a50-be71-633843c574e4.png)
